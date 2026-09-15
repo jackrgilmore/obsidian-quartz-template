@@ -1,7 +1,7 @@
 ---
 title: Jack Gilmore Creative
 ---
-[inst](https://www.instagram.com/jackgilmore_creative/) | [linkedin](https://www.linkedin.com/in/jack-gilmore-723b58222/) | [youtube](https://www.youtube.com/@jackgilmorecreative)
+[🅾](https://www.instagram.com/jackgilmore_creative/) | [LinkedIn](https://www.linkedin.com/in/jack-gilmore-723b58222/) | [▶️YouTube](https://www.youtube.com/@jackgilmorecreative)
 
 Hi there,
 
