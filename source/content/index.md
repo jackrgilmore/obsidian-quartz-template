@@ -2,6 +2,7 @@
 title: Jack Gilmore Creative
 ---
 [inst](https://www.instagram.com/jackgilmore_creative/) | [linkedin](https://www.linkedin.com/in/jack-gilmore-723b58222/) | [youtube](https://www.youtube.com/@jackgilmorecreative)
+
 Hi there,
 
 I'm an animator from Concord Massachusetts.
