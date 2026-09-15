@@ -1,8 +1,6 @@
 ---
-title: Jack Gilmore Creative
+title: Hello there!
 ---
-
-Hi there,
 
 I'm an animator from Concord Massachusetts.
 

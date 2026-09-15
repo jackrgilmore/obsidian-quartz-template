@@ -201,10 +201,10 @@
   },
   "active": "74ce8a353614211f",
   "lastOpenFiles": [
+    "source/content/index.md.fetch",
     "source/quartz.config.ts.fetch",
     "source/content/index.md",
     "source/docs/layout.md",
-    "source/content/index.md.fetch",
     "source/docs/authoring content.md",
     "source/docs/plugins/ObsidianFlavoredMarkdown.md",
     "source/docs/plugins/NotFoundPage.md",
