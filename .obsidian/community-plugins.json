@@ -2,5 +2,10 @@
   "obsidian-git",
   "obsidian-style-settings",
   "url-into-selection",
-  "notebook-navigator"
+  "notebook-navigator",
+  "obsidian-minimal-settings",
+  "omnisearch",
+  "templater-obsidian",
+  "quickadd",
+  "periodic-notes"
 ]

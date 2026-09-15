@@ -1,7 +1,6 @@
 ---
 title: Hello there!
 ---
-
 I'm an animator from Concord Massachusetts.
 
 I animate anything and everything. I'm looking to build creative projects in sci-fi, fantasy, comedy, and anything in between. You can see some of my doodles here.

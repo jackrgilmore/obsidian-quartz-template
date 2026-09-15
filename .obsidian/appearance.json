@@ -1,3 +1,6 @@
 {
-  "cssTheme": "AnuPpuccin"
+  "cssTheme": "Minimal",
+  "accentColor": "#ffbe4d",
+  "textFontFamily": "Georgia",
+  "baseFontSize": 18
 }

@@ -35,21 +35,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "854ff512aa6af0aa",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
             "id": "e2800cfb4e9e5558",
             "type": "leaf",
             "state": {
@@ -67,19 +52,6 @@
             }
           },
           {
-            "id": "b2c8a5e990607c5b",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
             "id": "29a3b06753a14663",
             "type": "leaf",
             "state": {
@@ -90,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,14 +168,19 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "notebook-navigator:Notebook Navigator": false
+      "notebook-navigator:Notebook Navigator": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "74ce8a353614211f",
   "lastOpenFiles": [
+    "source/quartz/components/Footer.tsx.fetch",
     "source/content/index.md.fetch",
-    "source/quartz.config.ts.fetch",
+    "source/content/Blog",
+    "source/CODE_OF_CONDUCT.md",
     "source/content/index.md",
+    "source/quartz.config.ts.fetch",
     "source/docs/layout.md",
     "source/docs/authoring content.md",
     "source/docs/plugins/ObsidianFlavoredMarkdown.md",
